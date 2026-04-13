@@ -1,0 +1,24 @@
+# BỎ QUA FILE CẤU HÌNH (QUAN TRỌNG: Chứa mật khẩu Database)
+wp-config.php
+wp-config-sample.php
+
+# BỎ QUA THƯ MỤC UPLOAD (Chứa ảnh/video người dùng đăng lên - rất nặng)
+wp-content/uploads/
+
+# Bỏ qua các thư mục cache, backup, upgrade tự động
+wp-content/upgrade/
+wp-content/cache/
+wp-content/backup-db/
+
+# Bỏ qua các file log ghi nhận lỗi
+*.log
+debug.log
+wp-content/debug.log
+
+# Bỏ qua các file rác của hệ điều hành tự sinh ra
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Bỏ qua Node modules (nếu sau này bạn có dùng npm)
+node_modules/
