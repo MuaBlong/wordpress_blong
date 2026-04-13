@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'cinzel';
+    src: url('cinzel.eot');
+    src: url('cinzel.eot?#iefix') format('embedded-opentype'),
+        url('cinzel.woff2') format('woff2'),
+        url('cinzel.woff') format('woff'),
+        url('cinzel.ttf') format('truetype'),
+        url('cinzel.svg#cinzel') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

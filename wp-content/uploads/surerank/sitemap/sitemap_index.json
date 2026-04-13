@@ -1,0 +1,22 @@
+[
+    {
+        "link": "http:\/\/localhost:8080\/tintuc\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2026-04-12T20:09:06+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:8080\/tintuc\/post-type-page-sitemap-1.xml",
+        "updated": "2026-04-12T20:09:06+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:8080\/tintuc\/post-type-post-sitemap-1.xml",
+        "updated": "2026-04-12T20:09:06+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:8080\/tintuc\/post-type-sureforms_form-sitemap-1.xml",
+        "updated": "2026-04-12T20:09:06+00:00"
+    },
+    {
+        "link": "http:\/\/localhost:8080\/tintuc\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2026-04-12T20:09:06+00:00"
+    }
+]

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Saira';
+    src: url('Saira.eot');
+    src: url('Saira.eot?#iefix') format('embedded-opentype'),
+        url('Saira.woff2') format('woff2'),
+        url('Saira.woff') format('woff'),
+        url('Saira.ttf') format('truetype'),
+        url('Saira.svg#Saira') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
